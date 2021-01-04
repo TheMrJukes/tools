@@ -3,3 +3,5 @@
 ################################################################################
 
 /HitTester/x64/Release
+/HitTester/Debug
+/HitTester/.vs/HitTester/v16
